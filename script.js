@@ -6,7 +6,7 @@ let student = {
 };
 
 
-student.age = 21;
+student.age = 22;
 student.grade = "A";
 
 
@@ -20,4 +20,3 @@ let firstTwoCourses = student.courses.slice(0, 2);
 console.log("Objet student complet :", student);
 console.log("Index de 'Physics' :", physicsIndex);
 console.log("Nouveau tableau avec slice :", firstTwoCourses);
-q
